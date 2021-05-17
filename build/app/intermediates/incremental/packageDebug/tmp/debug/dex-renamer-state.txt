@@ -1,0 +1,4 @@
+#Wed May 05 15:29:22 CEST 2021
+base.0=/home/amek/Programowanie/staz-amadeusz-drabiniok/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
